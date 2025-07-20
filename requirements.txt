@@ -1,0 +1,6 @@
+streamlit
+agno
+qdrant-client
+sentence-transformers
+python-dotenv
+openai
